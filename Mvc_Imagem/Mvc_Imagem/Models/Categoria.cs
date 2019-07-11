@@ -6,6 +6,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Mvc_Imagem.Models
 {
+	/// <summary>
+	/// Tabela Categorias
+	/// </summary>
 	[Table("Categorias")]
 	public class Categoria
 	{
